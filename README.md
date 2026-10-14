@@ -109,8 +109,8 @@ The actual performance and effectiveness of PCA should be evaluated using the me
 
 ## 👩‍💻 Author
 
-**Shristi Jha**
-
+**SHARAN KARUPANNAN THANGAVEL**
+25LECSE005
 B.Tech – Computer Science and Engineering  
 Jain (Deemed-to-be University)
 
